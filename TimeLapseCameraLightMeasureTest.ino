@@ -7,6 +7,7 @@
  *
  * Copyright 2013 Greg Norman <normgr00@yahoo.com>
  *
+ * This is a test
  */
 #include <Wire.h>
 #include "RTClib.h"
